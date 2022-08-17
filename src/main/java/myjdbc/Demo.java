@@ -31,6 +31,10 @@ public class Demo {
 		int newRollNo=14;
 		String newName = "Shikamaru";
 		String query1 = "INSERT INTO STUDENTS VALUES (?, ?)";
+
+		int newRollNo2=15;
+		String newName2 = "Choji";
+		String query2 = "INSERT INTO STUDENTS VALUES (?, ?)";
 		
 		
 		// 4. Create statement
